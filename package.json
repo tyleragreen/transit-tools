@@ -1,0 +1,33 @@
+{
+  "name": "transit-tools",
+  "version": "1.0.0",
+  "description": "Utilities to study public transit systems.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": "7.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleragreen/transit-tools.git"
+  },
+  "keywords": [
+    "transit",
+    "transport"
+  ],
+  "author": "Tyler A. Green <greent@tyleragreen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyleragreen/transit-tools/issues"
+  },
+  "homepage": "https://github.com/tyleragreen/transit-tools#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
